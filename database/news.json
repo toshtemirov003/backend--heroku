@@ -1,0 +1,38 @@
+[
+    {
+        "newsId": 1,
+        "title": "hellooo",
+        "body": "lkashdf la skjhf asfdlkjh laskdh",
+        "created_at": "2022-11-19T01:33:13.123Z"
+    },
+    {
+        "newsId": 2,
+        "title": "lorem",
+        "body": "Lorem ipsun dolor sir amet",
+        "created_at": "2022-11-19T01:33:33.420Z"
+    },
+    {
+        "newsId": 3,
+        "title": "apple",
+        "body": "lshdf lsdj hfwldfh  hasdfhpugfbfpewu hewhf pw",
+        "created_at": "2022-11-19T01:33:59.376Z"
+    },
+    {
+        "newsId": 4,
+        "title": "apple-baqlajan",
+        "body": "lshdf lsdj hfwldfh  hasdfhpugfbfpewu hewhf pw",
+        "created_at": "2022-11-19T01:43:37.703Z"
+    },
+    {
+        "newsId": 5,
+        "title": "apple-baqlajan-sovzi",
+        "body": "lshdf lsdj hfwldfh  hasdfhpugfbfpewu hewhf pw",
+        "created_at": "2022-11-19T01:48:42.327Z"
+    },
+    {
+        "newsId": 6,
+        "title": "apple-apelsin",
+        "body": "lshdf lsdj hfwldfh  hasdfhpugfbfpewu hewhf pw",
+        "created_at": "2022-11-19T01:52:47.964Z"
+    }
+]
